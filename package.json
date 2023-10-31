@@ -2,7 +2,7 @@
   "name": "tutorial_nodejs",
   "version": "1.0.0",
   "description": "SEQUENCIA PARA CRIAR O PROJETO\r Criar o arquivo package\r ### npm init",
-  "main": "app.js",
+  "main": "index.js",
   "engines": {
     "node": "18.x"
   },
