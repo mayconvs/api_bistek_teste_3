@@ -4,7 +4,7 @@
   "description": "SEQUENCIA PARA CRIAR O PROJETO\r Criar o arquivo package\r ### npm init",
   "main": "app.js",
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
